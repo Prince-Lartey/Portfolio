@@ -3,6 +3,7 @@ import NoteTaking from '../assets/projects/NoteTaking.png'
 import RealEst from '../assets/projects/realestate.jpg'
 import download from '../assets/projects/download.png'
 import TodoApp from '../assets/projects/TodoApp.png'
+import Expense from '../assets/projects/expense.jpg'
 
 export const data=[
     {
@@ -30,13 +31,13 @@ export const data=[
         id:4,
         name:"Note Taking App",
         image:NoteTaking,
-        github:"https://github.com/Prince-Lartey/Notr-Taking-App",
+        github:"https://github.com/Prince-Lartey/Note-Taking-App",
         live:"https://note-taking-app-gamma-lime.vercel.app/",
     },
     {
         id:5,
         name:"Expense Management System",
-        image:download,
+        image:Expense,
         github:"https://github.com/Prince-Lartey/ExpenseSys",
         live:"",
     },
